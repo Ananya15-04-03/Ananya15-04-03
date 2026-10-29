@@ -27,5 +27,5 @@ I am a PGDM student with a background in Bachelor of Commerce (B.Com). I have a 
 - Business Strategy
 
 ## Connect With Me
-- LinkedIn: YOUR-LINKEDIN-PROFILE-LINK
-- GitHub: https://github.com/YOUR-USERNAME
+- https://www.linkedin.com/in/ananya-kaushik-8b0073212/
+- https://github.com/Ananya15-04-03/Ananya15-04-03/edit/main/README.md
