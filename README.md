@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ananya Kaushik 👋
 
-<!--
-**Ananya15-04-03/Ananya15-04-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a PGDM student with a background in Bachelor of Commerce (B.Com). I have a keen interest in financial markets, stock market analysis, investment management, and business strategy. I enjoy learning about market trends, financial concepts, and the factors that influence investment decisions. I am eager to enhance my knowledge and develop my analytical and professional skills.
 
-Here are some ideas to get you started:
+## Education
+- PGDM (Post Graduate Diploma in Management) – Pursuing
+- B.Com (Bachelor of Commerce) – Graduated
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Microsoft Excel
+- PowerPoint
+- Business Analysis
+- Financial Analysis
+- Communication
+- Teamwork
+- Problem-Solving
+
+## Academic & Professional Interests
+- Financial Markets
+- Stock Market Analysis
+- Investment Analysis and Portfolio Management
+- Financial Management
+- Fundamental and Technical Analysis
+- Business and Financial Analytics
+- Economics and Market Trends
+- Business Strategy
+
+## Connect With Me
+- LinkedIn: YOUR-LINKEDIN-PROFILE-LINK
+- GitHub: https://github.com/YOUR-USERNAME
